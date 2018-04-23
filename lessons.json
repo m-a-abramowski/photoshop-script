@@ -1,0 +1,34 @@
+[
+{
+  "id": "how-to-script-photoshop",
+  "title": "How to script ps",
+  "todo": [
+    "Learn how to load script",
+    "Write Hello World"
+  ]
+},
+{
+  "id": "how-to-script-photoshop-2",
+  "title": "How to script ps-2",
+  "todo": [
+    "Learn how to load script-2",
+    "Write Hello World-2"
+  ]
+},
+{
+  "id": "how-to-script-photoshop-3",
+  "title": "How to script ps-3",
+  "todo": [
+    "Learn how to load script-3",
+    "Write Hello World-3"
+  ]
+},
+{
+  "id": "how-to-script-photoshop-4",
+  "title": "How to script ps-4",
+  "todo": [
+    "Learn how to load script-4",
+    "Write Hello World-4"
+  ]
+}
+]
